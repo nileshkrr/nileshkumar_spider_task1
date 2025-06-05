@@ -29,7 +29,7 @@ The task was to design a full website UI for a coffee company using Figma. The p
 
 
 
-# UI UX Domain Specific task - Jewellery Company Website
+# Domain Specific task - UI UX Jewellery Company Website
 
 This project is a website UI/UX design for a luxury jewellery brand, created using Figma. The site layout is elegant, user-centric, and optimized to showcase premium collections in a modern digital experience.
 ## 🌟 Features
