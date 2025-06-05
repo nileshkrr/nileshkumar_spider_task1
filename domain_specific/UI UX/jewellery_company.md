@@ -25,5 +25,5 @@ This project is a website UI/UX design for a luxury jewellery brand, created usi
 
 ## 🔗 Live Preview
 
-[Click here to view the Figma Live Preview](https://www.figma.com/design/79tYFOY14zKHQfILdJEB2x/Untitled?node-id=148-427&t=haw6pwboINPRAe7g-1)
+[Click here to view the Figma Live Preview](https://www.figma.com/proto/79tYFOY14zKHQfILdJEB2x/Untitled?node-id=182-2&p=f&t=eBBz99JgiTJxrCxj-1&scaling=scale-down&content-scaling=fixed&page-id=148%3A427&starting-point-node-id=182%3A2&show-proto-sidebar=1)
 
